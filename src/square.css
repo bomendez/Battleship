@@ -1,0 +1,51 @@
+.unclicked{
+    width: 65px;
+    height: 65px;
+    border: 1px solid black;
+    background-color: skyblue;
+}
+
+.ship{
+    width: 65px;
+    height: 65px;
+    border: 1px solid black;
+    background-color: black;
+}
+
+.cell {
+    width: 1em;
+    height: 1em;
+    border: 1px solid #ddd;
+  }
+
+.fa-check-square {
+    color: green;
+}
+
+.fa-bomb {
+    color: black;
+}
+
+.fa-ship {
+    color: rgb(44, 135, 192);
+}
+
+.hoverClass{
+    background-color:rgb(42, 134, 161);
+    transition: ease-in-out;
+}
+
+.clickedBox{
+    width: 65px;
+    height: 65px;
+    border: 1px solid black;
+    background-color: #77dd77;
+}
+
+.hitSquare{
+    width: 65px;
+    height: 65px;
+    border: 1px solid black;
+    background-color: red;
+
+}
